@@ -26,3 +26,6 @@ What is the benefit of having a copy of the last known state of the remote store
 
 so that if you are working on a file, while someone else is working on it at the same time, if they uploaded their change before you could notice the change, it could cause a conflict in the 2 changes made.
 if you store last known remote copy onto your local device, you can know exactly where the last checkpoint you are working off of is coming from so when you merge the local and remote version again after you are done making changes, you wont have as many conflicts than.. only cloning a project at the beginning and then attempting to merge at the end of a project. you would have too many differences potentially to be useful.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+flash drive, email, zip files. in this way only one person could be working on a program at a time, or end up with 2 different versions of same project. the only problem would be pinpointing the differences each person made, git hub takes some of that work out of the whole process
