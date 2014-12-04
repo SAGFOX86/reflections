@@ -1,0 +1,23 @@
+When would you want to create a remote repository rather than keeping all your work local?
+
+When you are working on a group project.  When you have an issue with a curret project and want input from others 
+who may be able to help you solve a bug, or issue with current project.
+
+Why might you want to always pull changes manually rather than having Git 
+automatically stay up-to-date with your remote repository?
+
+you wouldnt want someone editing your work, or you might be working on a new concept for your project,
+and you're not quite ready for it to be public. so you wouldnt want to automatically push or pull from either 
+your remote hub, or from your local pc to the remote hub.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+fork copies one repository from one user to another without having to clone it first to your pc. it clones it from one online hub to another , within github.
+
+branch is creating changes within one main file to have different versions without having to revert and add and remove changes constantly.
+
+a clone is just a copy of one file from one source to another. you can clone from online to pc, or from one source to another both online, or you could clone from your pc onto an online source, and then again to another pc. forking is more efficient and you dont have to download the original to your pc then back online then to another pc, it saves a step
+
+forking is good when multiple people are working on different versions of the same file, project, or program.
+clone is good when you do not have access or authority to make changes to a file, but you would like to make it better on your own pc, and possibly submit changes to the original owner of said file.
+and you would use a branch to make several versions of the same file, ex. making an easy mode, a hard mode and a standard mode on a game, or even different languages.. ex. spanish to english, all within the same basic concept of the same file, program or project.
