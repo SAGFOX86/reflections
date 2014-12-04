@@ -2,3 +2,10 @@ When would you want to create a remote repository rather than keeping all your w
 
 When you are working on a group project.  When you have an issue with a curret project and want input from others 
 who may be able to help you solve a bug, or issue with current project.
+
+Why might you want to always pull changes manually rather than having Git 
+automatically stay up-to-date with your remote repository?
+
+you wouldnt want someone editing your work, or you might be working on a new concept for your project,
+and you're not quite ready for it to be public. so you wouldnt want to automatically push or pull from either 
+your remote hub, or from your local pc to the remote hub.
