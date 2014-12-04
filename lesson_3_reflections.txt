@@ -29,3 +29,7 @@ if you store last known remote copy onto your local device, you can know exactly
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 flash drive, email, zip files. in this way only one person could be working on a program at a time, or end up with 2 different versions of same project. the only problem would be pinpointing the differences each person made, git hub takes some of that work out of the whole process
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+make changes in a separate branch would be for a demo or trial change to any script or project. if you make a change to master and update it in github or the public online file, then the change has already been processed and might not be ready for mainstream yet.
