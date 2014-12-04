@@ -21,3 +21,8 @@ a clone is just a copy of one file from one source to another. you can clone fro
 forking is good when multiple people are working on different versions of the same file, project, or program.
 clone is good when you do not have access or authority to make changes to a file, but you would like to make it better on your own pc, and possibly submit changes to the original owner of said file.
 and you would use a branch to make several versions of the same file, ex. making an easy mode, a hard mode and a standard mode on a game, or even different languages.. ex. spanish to english, all within the same basic concept of the same file, program or project.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+so that if you are working on a file, while someone else is working on it at the same time, if they uploaded their change before you could notice the change, it could cause a conflict in the 2 changes made.
+if you store last known remote copy onto your local device, you can know exactly where the last checkpoint you are working off of is coming from so when you merge the local and remote version again after you are done making changes, you wont have as many conflicts than.. only cloning a project at the beginning and then attempting to merge at the end of a project. you would have too many differences potentially to be useful.
